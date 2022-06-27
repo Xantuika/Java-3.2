@@ -14,7 +14,5 @@ public class Main {
         } else {
             System.out.println("Вы получили : " + 0 + " бонусных рубля(ей)");
         }
-
-
     }
 }
